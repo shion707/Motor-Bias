@@ -7,6 +7,9 @@ Motor biases reflect a misalignment between visual and proprioceptive reference 
 Correspondence: tianhewang@berkeley.edu
 
 Content:
+
 CSV Data files x 4
+
 Analysis file: model_fitting.m
+
 Functions of different models x 7
